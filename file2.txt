@@ -1,1 +1,2 @@
 text
+Change file 2 to see the effect of it
